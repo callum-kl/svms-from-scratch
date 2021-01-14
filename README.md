@@ -11,7 +11,7 @@ so the implementation is easily kernelizable. We explore Gaussian and polynomial
 
 We test the implementation on the Historical Credit Rating dataset available directly within the MATLAB client. The main focus is numerical optimization and hence we primarliy analyse the performance of the algorithms. 
 
-The implementation is available in ./src, and the experiments are shown in the experiments.mlx and experiments_multiclass.mlx files. A write-up (including derivation of the SVM objective, description of the algorithms, and analysis of performance) is provided in project.pdf.
+The implementation is available in ./src, and the experiments are shown in the experiments.mlx and multiclass_experiments.mlx files. A write-up (including derivation of the SVM objective, description of the algorithms, and analysis of performance) is provided in project.pdf.
 
 A few resources that I found informative:
 * http://cs229.stanford.edu/materials/smo.pdf 
